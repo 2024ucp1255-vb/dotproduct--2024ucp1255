@@ -21,3 +21,6 @@ for i in range(n):
 	v2.append(a)
 
 print("Dot product: ",vectordot(v1,v2))
+print ("hello world")
+print("vanshika ")
+
